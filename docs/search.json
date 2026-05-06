@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "rsjaspal",
+    "title": "Rohan Jaspal",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Data Engineering & Analytics: Proficient in SQL for database design and Python (Pandas, NumPy, Scikit-Learn) for data manipulation and modeling.\nStatistical Programming: Experienced in R using the tidyverse and ggplot2 packages for data tidying and visualization.\nAdvanced Mathematics: Strong foundation in Linear Algebra, Multivariable Calculus, and Statistical Theory.\n\n\n\n\n\nUniversity Student: Currently in the second year of junior year, maintaining a focus on academic performance and GPA protection.\nData Science Coursework: Completed advanced courses in Multivariable Calculus and Statistics.\nProfessional Development: Serving as a Scheduling & Operations Lead, gaining hands-on experience in operational management and team coordination."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,33 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Hobbies.html",
+    "href": "Hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Playing Pickleball  Hitting the court with friends and playing tournaments.\nWatching the Premier League\nKeeping a close eye on Arsenal and analyzing tactical performance data.\nTrying New Foods\nExploring new flavors and perfecting air-fried recipes with peri-peri and lime marinades."
+  },
+  {
+    "objectID": "Hobbies.html#my-favorite-hobbies",
+    "href": "Hobbies.html#my-favorite-hobbies",
+    "title": "Hobbies",
+    "section": "",
+    "text": "Playing Pickleball  Hitting the court with friends and playing tournaments.\nWatching the Premier League\nKeeping a close eye on Arsenal and analyzing tactical performance data.\nTrying New Foods\nExploring new flavors and perfecting air-fried recipes with peri-peri and lime marinades."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Rohan Jaspal",
+    "section": "",
+    "text": "Data Engineering & Analytics: Proficient in SQL for database design and Python (Pandas, NumPy, Scikit-Learn) for data manipulation and modeling.\nStatistical Programming: Experienced in R using the tidyverse and ggplot2 packages for data tidying and visualization.\nAdvanced Mathematics: Strong foundation in Linear Algebra, Multivariable Calculus, and Statistical Theory."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Rohan Jaspal",
+    "section": "",
+    "text": "University Student: Currently in the second year of junior year, maintaining a focus on academic performance and GPA protection.\nData Science Coursework: Completed advanced courses in Multivariable Calculus and Statistics.\nProfessional Development: Serving as a Scheduling & Operations Lead, gaining hands-on experience in operational management and team coordination."
   }
 ]

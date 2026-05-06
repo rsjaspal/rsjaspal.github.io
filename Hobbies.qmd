@@ -1,0 +1,23 @@
+---
+title: "Hobbies"
+editor: visual
+---
+
+::: {#ppc}
+
+## My Favorite Hobbies
+
+* **Playing Pickleball**
+  ![Pickleball](pickleball.png)
+  Hitting the court with friends and playing tournaments.
+
+* **Watching the Premier League**
+  
+  Keeping a close eye on Arsenal and analyzing tactical performance data.
+
+* **Trying New Foods**
+  
+  Exploring new flavors and perfecting air-fried recipes with peri-peri and lime marinades.
+
+:::
+---

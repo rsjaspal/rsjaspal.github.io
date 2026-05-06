@@ -1,11 +1,37 @@
 ---
-title: "rsjaspal"
+title: "Rohan Jaspal"
+image: me.png
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  
+  links:
+    - text: Email
+      icon: envelope
+      href: rohanjaspal2018@gmail.com
+    - text: Youtube
+      icon: youtube
+      href: https://youtube.com/
 ---
 
-This is a Quarto website.
+:::{#ppc}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Skills
 
-```{r}
-1 + 1
-```
+- Data Engineering & Analytics: Proficient in SQL for database design and Python (Pandas, NumPy, Scikit-Learn) for data manipulation and modeling.
+
+- Statistical Programming: Experienced in R using the tidyverse and ggplot2 packages for data tidying and visualization.
+
+- Advanced Mathematics: Strong foundation in Linear Algebra, Multivariable Calculus, and Statistical Theory.
+
+## Education
+
+- University Student: Currently in the second year of junior year, maintaining a focus on academic performance and GPA protection.
+
+- Data Science Coursework: Completed advanced courses in Multivariable Calculus and Statistics.
+
+- Professional Development: Serving as a Scheduling & Operations Lead, gaining hands-on experience in operational management and team coordination.
+:::
+
+

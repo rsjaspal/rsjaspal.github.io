@@ -3,20 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "Rohan"
+  title: "Rohan Jaspal"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Hobbies.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+      - vapor
+
 
 
 
